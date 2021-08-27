@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Race | Name | Occupation | Age
 ------------ | ------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2 | 3 | 4
-Content in the first column | Content in the second column | 3 | 4
+Human | Adam | Baker | 27
+Gnome | Regis | Sailor | 121
 
 # Header 1
 ## Header 2
