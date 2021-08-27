@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Data Entry
 
-You can use the [editor on GitHub](https://github.com/adamjgentz/NPCGen/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this portion of the page you can enter attributes to be input into the database. These should be general attributes for any particular character.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Input race attribute: <input type="text" id="race" name="race"/>
+
 
 ### NPC Attributes
 
