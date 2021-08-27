@@ -2,7 +2,10 @@
 
 In this portion of the page you can enter attributes to be input into the database. These should be general attributes for any particular character.
 
-Input race attribute: <input type="text" id="race" name="race"/>
+Input race attribute: __________________
+Input name attribute: __________________
+Input occupation attribute: ____________
+Input age attribute: _____
 
 
 ### NPC Attributes
